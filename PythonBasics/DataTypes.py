@@ -7,6 +7,7 @@ list
 tuple
 set
 dict
+complex
 
 #Classes -> custom types
 
