@@ -1,9 +1,23 @@
+#-------Day 4--------
+from PythonBasics.ReplExercise import *
+from PythonBasics.DictionaryMethods2 import *
+from PythonBasics.DictionaryMethods import *
+from PythonBasics.DictionaryKeys import *
+from PythonBasics.UnderstandingDataStructures import *
+from PythonBasics.Dictionaries import *
+from PythonBasics.ListNone import *
+from PythonBasics.ListUnpacking import *
+from PythonBasics.CommonListPatterns import *
+from PythonBasics.ListMethods3 import *
+from PythonBasics.ListMethods2 import *
+from PythonBasics.ListMethods import *
+
 #-------Day 3--------
-from PythonBasics.Matrix import *
-from PythonBasics.ListSlicing import *
-from PythonBasics.Commenting import *
-from PythonBasics.PasswordCheckerExercise import *
-from PythonBasics.Lists import *
+# from PythonBasics.Matrix import *
+# from PythonBasics.ListSlicing import *
+# from PythonBasics.Commenting import *
+# from PythonBasics.PasswordCheckerExercise import *
+# from PythonBasics.Lists import *
 
 #-------Day 2--------
 # from PythonBasics.MathFunctions import *
