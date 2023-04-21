@@ -1,16 +1,31 @@
+#-------Day 5--------
+from PythonBasics2.Iterables import *
+from PythonBasics2.ForLoops import *
+from PythonBasics2.IsVsEquals import *
+from PythonBasics2.LogicalOperatorsExercise import *
+from PythonBasics2.LogicalOperators import *
+from PythonBasics2.ShortCircuiting import *
+from PythonBasics2.TernaryOperator import *
+from PythonBasics2.TruthyVsFalsy import *
+from PythonBasics2.ConditionalLogic import *
+from PythonBasics.Sets2 import *
+from PythonBasics.Sets import *
+from PythonBasics.Tuples2 import *
+from PythonBasics.Tuples1 import *
+
 #-------Day 4--------
-from PythonBasics.ReplExercise import *
-from PythonBasics.DictionaryMethods2 import *
-from PythonBasics.DictionaryMethods import *
-from PythonBasics.DictionaryKeys import *
-from PythonBasics.UnderstandingDataStructures import *
-from PythonBasics.Dictionaries import *
-from PythonBasics.ListNone import *
-from PythonBasics.ListUnpacking import *
-from PythonBasics.CommonListPatterns import *
-from PythonBasics.ListMethods3 import *
-from PythonBasics.ListMethods2 import *
-from PythonBasics.ListMethods import *
+# from PythonBasics.ReplExercise import *
+# from PythonBasics.DictionaryMethods2 import *
+# from PythonBasics.DictionaryMethods import *
+# from PythonBasics.DictionaryKeys import *
+# from PythonBasics.UnderstandingDataStructures import *
+# from PythonBasics.Dictionaries import *
+# from PythonBasics.ListNone import *
+# from PythonBasics.ListUnpacking import *
+# from PythonBasics.CommonListPatterns import *
+# from PythonBasics.ListMethods3 import *
+# from PythonBasics.ListMethods2 import *
+# from PythonBasics.ListMethods import *
 
 #-------Day 3--------
 # from PythonBasics.Matrix import *
