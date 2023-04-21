@@ -1,0 +1,33 @@
+#Scroll down to see the answers!
+#1 Create a user profile for your new game. This user profile will be stored in a dictionary with keys: 'age', 'username', 'weapons', 'is_active' and 'clan'
+
+#2 iterate and print all the keys in the above user.
+
+#3 Add a new weapon to your user
+
+#4 Add a new key to include 'is_banned'. Set it to false
+
+#5 Ban the user by setting the previous key to True
+
+#6 create a new user2 my copying the previous user and update the age value and username value. 
+
+
+user_profile = {
+  'username': input('Name? '),
+  'age': input('Age? '),
+  'weapons': ['sword'],
+  'is_active': True,
+  'clan': 'bob'
+}
+
+
+print(user_profile.keys())
+user_profile['weapons'].append('swordfish')
+user_profile.update({'is_banned': False})
+user_profile.update({'is_banned': True})
+print(user_profile)
+
+user_profile_2 = user_profile.copy()
+user_profile_2.update({'username': input('Name? ')})
+user_profile_2.update({'age': input('Age? ')})
+print(user_profile_2)
