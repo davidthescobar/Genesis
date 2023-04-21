@@ -1,3 +1,20 @@
 {
-  "files": {}
+  "files": {
+    "PythonBasics2/IsVsEquals.py": [
+      {
+        "id": "0f0d0aa7-32a3-45de-b193-834975f9d899",
+        "line": 17,
+        "version": 396,
+        "index": 360
+      }
+    ],
+    "PythonBasics2/TruthyVsFalsy.py": [
+      {
+        "id": "06fdf6e6-ecb4-468f-87d5-a4c2eb2ef1d2",
+        "line": 9,
+        "version": 72,
+        "index": 111
+      }
+    ]
+  }
 }
