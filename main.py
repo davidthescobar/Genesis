@@ -1,17 +1,28 @@
+#-------Day 6--------
+from PythonBasics2.FindDuplicatesExercise import *
+from PythonBasics2.FirstGUI import *
+from PythonBasics2.BreakContinuePass import *
+from PythonBasics2.WhileLoopContinued import *
+from PythonBasics2.WhileLoop import *
+from PythonBasics2.Enumerate import *
+from PythonBasics2.Range import *
+from PythonBasics2.TrickyCounterExercise import *
+
+
 #-------Day 5--------
-from PythonBasics2.Iterables import *
-from PythonBasics2.ForLoops import *
-from PythonBasics2.IsVsEquals import *
-from PythonBasics2.LogicalOperatorsExercise import *
-from PythonBasics2.LogicalOperators import *
-from PythonBasics2.ShortCircuiting import *
-from PythonBasics2.TernaryOperator import *
-from PythonBasics2.TruthyVsFalsy import *
-from PythonBasics2.ConditionalLogic import *
-from PythonBasics.Sets2 import *
-from PythonBasics.Sets import *
-from PythonBasics.Tuples2 import *
-from PythonBasics.Tuples1 import *
+# from PythonBasics2.Iterables import *
+# from PythonBasics2.ForLoops import *
+# from PythonBasics2.IsVsEquals import *
+# from PythonBasics2.LogicalOperatorsExercise import *
+# from PythonBasics2.LogicalOperators import *
+# from PythonBasics2.ShortCircuiting import *
+# from PythonBasics2.TernaryOperator import *
+# from PythonBasics2.TruthyVsFalsy import *
+# from PythonBasics2.ConditionalLogic import *
+# from PythonBasics.Sets2 import *
+# from PythonBasics.Sets import *
+# from PythonBasics.Tuples2 import *
+# from PythonBasics.Tuples1 import *
 
 #-------Day 4--------
 # from PythonBasics.ReplExercise import *
