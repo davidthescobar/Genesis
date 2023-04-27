@@ -1,12 +1,29 @@
+#-------Day 7--------
+from PythonBasics2.NonlocalKeywords import *
+from PythonBasics2.GlobalKeywords import *
+from PythonBasics2.ScopeRules import *
+from PythonBasics2.Scope import *
+from PythonBasics2.WalrusOperator import *
+from PythonBasics2.FunctionsExercise import *
+from PythonBasics2.ArgsAndKwargs import *
+from PythonBasics2.CleanCode import *
+from PythonBasics2.DocStrings import *
+from PythonBasics2.MethodsVsFunctions import *
+from PythonBasics2.TeslaExercise import *
+from PythonBasics2.Returns import *
+from PythonBasics2.DefaultParametersAndKeywordArguments import *
+from PythonBasics2.ArgumentsVsParameters import *
+from PythonBasics2.Functions import *
+
 #-------Day 6--------
-from PythonBasics2.FindDuplicatesExercise import *
-from PythonBasics2.FirstGUI import *
-from PythonBasics2.BreakContinuePass import *
-from PythonBasics2.WhileLoopContinued import *
-from PythonBasics2.WhileLoop import *
-from PythonBasics2.Enumerate import *
-from PythonBasics2.Range import *
-from PythonBasics2.TrickyCounterExercise import *
+# from PythonBasics2.FindDuplicatesExercise import *
+# from PythonBasics2.FirstGUI import *
+# from PythonBasics2.BreakContinuePass import *
+# from PythonBasics2.WhileLoopContinued import *
+# from PythonBasics2.WhileLoop import *
+# from PythonBasics2.Enumerate import *
+# from PythonBasics2.Range import *
+# from PythonBasics2.TrickyCounterExercise import *
 
 
 #-------Day 5--------
