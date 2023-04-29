@@ -1,19 +1,31 @@
+#-------Day 8--------
+from PythonOOP.Inheritance import *
+from PythonOOP.PrivateVsPublicVariables import *
+from PythonOOP.Abstraction import *
+from PythonOOP.Encapsulation import *
+from PythonOOP.TestAssumptions import *
+from PythonOOP.ClassmethodAndStaticmethod import *
+from PythonOOP.CatsEverywhereExercise import *
+from PythonOOP.AttributesAndMethods import *
+from PythonOOP.MyOwnObjects import *
+from PythonOOP.WhatIsOOP import *
+
 #-------Day 7--------
-from PythonBasics2.NonlocalKeywords import *
-from PythonBasics2.GlobalKeywords import *
-from PythonBasics2.ScopeRules import *
-from PythonBasics2.Scope import *
-from PythonBasics2.WalrusOperator import *
-from PythonBasics2.FunctionsExercise import *
-from PythonBasics2.ArgsAndKwargs import *
-from PythonBasics2.CleanCode import *
-from PythonBasics2.DocStrings import *
-from PythonBasics2.MethodsVsFunctions import *
-from PythonBasics2.TeslaExercise import *
-from PythonBasics2.Returns import *
-from PythonBasics2.DefaultParametersAndKeywordArguments import *
-from PythonBasics2.ArgumentsVsParameters import *
-from PythonBasics2.Functions import *
+# from PythonBasics2.NonlocalKeywords import *
+# from PythonBasics2.GlobalKeywords import *
+# from PythonBasics2.ScopeRules import *
+# from PythonBasics2.Scope import *
+# from PythonBasics2.WalrusOperator import *
+# from PythonBasics2.FunctionsExercise import *
+# from PythonBasics2.ArgsAndKwargs import *
+# from PythonBasics2.CleanCode import *
+# from PythonBasics2.DocStrings import *
+# from PythonBasics2.MethodsVsFunctions import *
+# from PythonBasics2.TeslaExercise import *
+# from PythonBasics2.Returns import *
+# from PythonBasics2.DefaultParametersAndKeywordArguments import *
+# from PythonBasics2.ArgumentsVsParameters import *
+# from PythonBasics2.Functions import *
 
 #-------Day 6--------
 # from PythonBasics2.FindDuplicatesExercise import *
