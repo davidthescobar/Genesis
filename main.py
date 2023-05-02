@@ -1,14 +1,28 @@
+#-------Day 9--------
+from FunctionProgramming.PureFunctions import *
+from FunctionProgramming.WhatIsFunctionalProgramming import *
+from PythonOOP.MultipleResolutionOrder import *
+from PythonOOP.MultipleInheritance import *
+from PythonOOP.ExtendingListExercise import *
+from PythonOOP.DunderExercise import *
+from PythonOOP.DunderMethods import *
+from PythonOOP.ObjectIntrospection import *
+from PythonOOP.super import *
+from PythonOOP.PetsEverywhereExercise import *
+from PythonOOP.Polymorphism import *
+from PythonOOP.Inheritance2 import *
+
 #-------Day 8--------
-from PythonOOP.Inheritance import *
-from PythonOOP.PrivateVsPublicVariables import *
-from PythonOOP.Abstraction import *
-from PythonOOP.Encapsulation import *
-from PythonOOP.TestAssumptions import *
-from PythonOOP.ClassmethodAndStaticmethod import *
-from PythonOOP.CatsEverywhereExercise import *
-from PythonOOP.AttributesAndMethods import *
-from PythonOOP.MyOwnObjects import *
-from PythonOOP.WhatIsOOP import *
+# from PythonOOP.Inheritance import *
+# from PythonOOP.PrivateVsPublicVariables import *
+# from PythonOOP.Abstraction import *
+# from PythonOOP.Encapsulation import *
+# from PythonOOP.TestAssumptions import *
+# from PythonOOP.ClassmethodAndStaticmethod import *
+# from PythonOOP.CatsEverywhereExercise import *
+# from PythonOOP.AttributesAndMethods import *
+# from PythonOOP.MyOwnObjects import *
+# from PythonOOP.WhatIsOOP import *
 
 #-------Day 7--------
 # from PythonBasics2.NonlocalKeywords import *
