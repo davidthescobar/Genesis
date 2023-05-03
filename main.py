@@ -1,16 +1,26 @@
+#-------Day 10-------
+from FunctionProgramming.ListComprehension import *
+from FunctionProgramming.LambdaExpressionExercise import *
+from FunctionProgramming.LambdaExpression import *
+from FunctionProgramming.Exercise import *
+from FunctionProgramming.reduce import *
+from FunctionProgramming.zip import *
+from FunctionProgramming.filter import *
+from FunctionProgramming.map import *
+
 #-------Day 9--------
-from FunctionProgramming.PureFunctions import *
-from FunctionProgramming.WhatIsFunctionalProgramming import *
-from PythonOOP.MultipleResolutionOrder import *
-from PythonOOP.MultipleInheritance import *
-from PythonOOP.ExtendingListExercise import *
-from PythonOOP.DunderExercise import *
-from PythonOOP.DunderMethods import *
-from PythonOOP.ObjectIntrospection import *
-from PythonOOP.super import *
-from PythonOOP.PetsEverywhereExercise import *
-from PythonOOP.Polymorphism import *
-from PythonOOP.Inheritance2 import *
+# from FunctionProgramming.PureFunctions import *
+# from FunctionProgramming.WhatIsFunctionalProgramming import *
+# from PythonOOP.MultipleResolutionOrder import *
+# from PythonOOP.MultipleInheritance import *
+# from PythonOOP.ExtendingListExercise import *
+# from PythonOOP.DunderExercise import *
+# from PythonOOP.DunderMethods import *
+# from PythonOOP.ObjectIntrospection import *
+# from PythonOOP.super import *
+# from PythonOOP.PetsEverywhereExercise import *
+# from PythonOOP.Polymorphism import *
+# from PythonOOP.Inheritance2 import *
 
 #-------Day 8--------
 # from PythonOOP.Inheritance import *
