@@ -1,12 +1,25 @@
+#-------Day 11-------
+from ErrorHandling.ErrorHandling3 import *
+from ErrorHandling.ErrorHandlingExercise import *
+from ErrorHandling.ErrorHandling2 import *
+from ErrorHandling.ErrorHandling import *
+from ErrorHandling.ErrorsInPython import *
+from Decorators.DecoratorExercise import *
+from Decorators.WhyWeNeedDecorators import *
+from Decorators.decorators2 import *
+from Decorators.decorators import *
+from FunctionProgramming.ComprehensionExercise import *
+from FunctionProgramming.SetAndDictrionaryComprehension import *
+
 #-------Day 10-------
-from FunctionProgramming.ListComprehension import *
-from FunctionProgramming.LambdaExpressionExercise import *
-from FunctionProgramming.LambdaExpression import *
-from FunctionProgramming.Exercise import *
-from FunctionProgramming.reduce import *
-from FunctionProgramming.zip import *
-from FunctionProgramming.filter import *
-from FunctionProgramming.map import *
+# from FunctionProgramming.ListComprehension import *
+# from FunctionProgramming.LambdaExpressionExercise import *
+# from FunctionProgramming.LambdaExpression import *
+# from FunctionProgramming.Exercise import *
+# from FunctionProgramming.reduce import *
+# from FunctionProgramming.zip import *
+# from FunctionProgramming.filter import *
+# from FunctionProgramming.map import *
 
 #-------Day 9--------
 # from FunctionProgramming.PureFunctions import *
