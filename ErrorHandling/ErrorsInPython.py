@@ -1,0 +1,1 @@
+# Errors that crarsh our program are called 'exceptions'
