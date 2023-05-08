@@ -1,5 +1,5 @@
 # Tuple
-# Tuples are like lists, but they are immutable
+# Tuples are like lists, but they are immutable - means you can't change
 # Think of them as immutable lists
 # You can't sort them, reverse them, etc.
 
