@@ -18,4 +18,6 @@
 # When create python packages (folders) start with a __init__.py file. This help python recognize the folder as a package.
 
 def buy(item):
-  print(f'Purchased {item}!')
+  cart = []
+  cart.append(item)
+  return f'Added {item}!'
