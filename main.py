@@ -1,8 +1,8 @@
 #-------Day 13-------
-from Modules.PackagesInPython import *
-buy(input("What do you want to buy? "))
-import utility
-print(utility.divide(4,2))
+# from Modules.PackagesInPython import *
+# buy(input("What do you want to buy? "))
+# import utility
+# print(utility.divide(4,2))
 # from Modules.ModulesInPython import *
 # from Generators.FibonaciNumbersExercise import *
 
