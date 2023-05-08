@@ -1,15 +1,30 @@
+#-------Day 13-------
+# from Modules.PackagesInPython import *
+# buy(input("What do you want to buy? "))
+# import utility
+# print(utility.divide(4,2))
+# from Modules.ModulesInPython import *
+# from Generators.FibonaciNumbersExercise import *
+
+
+#-------Day 12-------
+# from Generators.UnderTheHoodOfGenerators import *
+# from Generators.GeneratorsPerformance import * 
+# from Generators.Generators2 import *
+# from Generators.Generators import *
+
 #-------Day 11-------
-from ErrorHandling.ErrorHandling3 import *
-from ErrorHandling.ErrorHandlingExercise import *
-from ErrorHandling.ErrorHandling2 import *
-from ErrorHandling.ErrorHandling import *
-from ErrorHandling.ErrorsInPython import *
-from Decorators.DecoratorExercise import *
-from Decorators.WhyWeNeedDecorators import *
-from Decorators.decorators2 import *
-from Decorators.decorators import *
-from FunctionProgramming.ComprehensionExercise import *
-from FunctionProgramming.SetAndDictrionaryComprehension import *
+# from ErrorHandling.ErrorHandling3 import *
+# from ErrorHandling.ErrorHandlingExercise import *
+# from ErrorHandling.ErrorHandling2 import *
+# from ErrorHandling.ErrorHandling import *
+# from ErrorHandling.ErrorsInPython import *
+# from Decorators.DecoratorExercise import *
+# from Decorators.WhyWeNeedDecorators import *
+# from Decorators.decorators2 import *
+# from Decorators.decorators import *
+# from FunctionProgramming.ComprehensionExercise import *
+# from FunctionProgramming.SetAndDictrionaryComprehension import *
 
 #-------Day 10-------
 # from FunctionProgramming.ListComprehension import *
