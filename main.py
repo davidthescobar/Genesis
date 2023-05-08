@@ -1,6 +1,14 @@
+#-------Day 14------
+from Modules.randomgame import *
+from random import shuffle
+my_list = [1,2,3,4,5]
+shuffle(my_list)
+print(my_list)
+from Modules.PythonBuiltInModules import *
+
 #-------Day 13-------
 # from Modules.PackagesInPython import *
-# buy(input("What do you want to buy? "))
+# print(buy(input("What do you want to buy? ")))
 # import utility
 # print(utility.divide(4,2))
 # from Modules.ModulesInPython import *
