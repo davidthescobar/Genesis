@@ -1,12 +1,20 @@
+#-------Day 15------
+from FileIO.TranslatorExercise import *
+from FileIO.FileIOErrors import *
+from FileIO.FilePaths import *
+from FileIO.ReadWriteAppend import *
+from FileIO.WorkingWithFilesInPython import *
+from Modules.HowToDebug import *
+
 #-------Day 14------
-from Modules.UsefulModules2 import *
-from Modules.UsefulModules import *
-from Modules.randomgame import *
-from random import shuffle
-my_list = [1,2,3,4,5]
-shuffle(my_list)
-print(my_list)
-from Modules.PythonBuiltInModules import *
+# from Modules.UsefulModules2 import *
+# from Modules.UsefulModules import *
+# from Modules.randomgame import *
+# from random import shuffle
+# my_list = [1,2,3,4,5]
+# shuffle(my_list)
+# print(my_list)
+# from Modules.PythonBuiltInModules import *
 
 #-------Day 13-------
 # from Modules.PackagesInPython import *
