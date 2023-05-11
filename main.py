@@ -1,10 +1,21 @@
+#-------Day 16------
+from Testing.Unittest import *
+def do_stuff(num):
+  return num + 5
+from Testing.TestingIntroduction import *
+from RegularExpressions.PasswordCheckerExercise import *
+from RegularExpressions.RegularExpressions3 import *
+from RegularExpressions.RegularExpressions2 import *
+from RegularExpressions.RegularExpressions import *
+
+
 #-------Day 15------
-from FileIO.TranslatorExercise import *
-from FileIO.FileIOErrors import *
-from FileIO.FilePaths import *
-from FileIO.ReadWriteAppend import *
-from FileIO.WorkingWithFilesInPython import *
-from Modules.HowToDebug import *
+# from FileIO.TranslatorExercise import *
+# from FileIO.FileIOErrors import *
+# from FileIO.FilePaths import *
+# from FileIO.ReadWriteAppend import *
+# from FileIO.WorkingWithFilesInPython import *
+# from Modules.HowToDebug import *
 
 #-------Day 14------
 # from Modules.UsefulModules2 import *
