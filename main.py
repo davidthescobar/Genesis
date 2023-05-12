@@ -1,12 +1,27 @@
+#-------Day 17------
+from imageplayground.JPGtoPNGconverter import *
+from imageplayground.images2 import *
+from imageplayground.images import *
+from Testing.TestingExercise import *
+from Testing.WritingUnitTests import *
+
+
 #-------Day 16------
-from Testing.Unittest import *
-def do_stuff(num):
-  return num + 5
-from Testing.TestingIntroduction import *
-from RegularExpressions.PasswordCheckerExercise import *
-from RegularExpressions.RegularExpressions3 import *
-from RegularExpressions.RegularExpressions2 import *
-from RegularExpressions.RegularExpressions import *
+# from Testing.Unittest import *
+# def do_stuff(num):
+#   try:
+#     if num:  
+#       return int(num) + 5
+#     else:
+#       return 'please enter number'
+#   except ValueError as err:
+#     return err
+  
+# from Testing.TestingIntroduction import *
+# from RegularExpressions.PasswordCheckerExercise import *
+# from RegularExpressions.RegularExpressions3 import *
+# from RegularExpressions.RegularExpressions2 import *
+# from RegularExpressions.RegularExpressions import *
 
 
 #-------Day 15------
