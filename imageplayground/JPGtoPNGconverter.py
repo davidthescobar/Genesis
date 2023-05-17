@@ -12,6 +12,6 @@ path_list = list(Path(folder).glob(('**/*.jpg')))
 
 num = 1
 for file in path_list:
-	img = Image.open(file)
-	img.save(f'{new_folder}/{str(num)}.png')
-	num += 1
+  img = Image.open(file)
+  img.save(f'{new_folder}/{str(num)}.png')
+  num += 1
