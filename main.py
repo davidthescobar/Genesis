@@ -1,28 +1,29 @@
-#-------Day 17------
-from imageplayground.JPGtoPNGconverter import *
-from imageplayground.images2 import *
-from imageplayground.images import *
-from Testing.TestingExercise import *
-from Testing.WritingUnitTests import *
+#-------Day 18------
+from checkpassword import checkmypass
 
+#-------Day 17------
+# from imageplayground.JPGtoPNGconverter import *
+# from imageplayground.images2 import *
+# from imageplayground.images import *
+# from Testing.TestingExercise import *
+# from Testing.WritingUnitTests import *
 
 #-------Day 16------
 # from Testing.Unittest import *
 # def do_stuff(num):
 #   try:
-#     if num:  
+#     if num:
 #       return int(num) + 5
 #     else:
 #       return 'please enter number'
 #   except ValueError as err:
 #     return err
-  
+
 # from Testing.TestingIntroduction import *
 # from RegularExpressions.PasswordCheckerExercise import *
 # from RegularExpressions.RegularExpressions3 import *
 # from RegularExpressions.RegularExpressions2 import *
 # from RegularExpressions.RegularExpressions import *
-
 
 #-------Day 15------
 # from FileIO.TranslatorExercise import *
@@ -50,10 +51,9 @@ from Testing.WritingUnitTests import *
 # from Modules.ModulesInPython import *
 # from Generators.FibonaciNumbersExercise import *
 
-
 #-------Day 12-------
 # from Generators.UnderTheHoodOfGenerators import *
-# from Generators.GeneratorsPerformance import * 
+# from Generators.GeneratorsPerformance import *
 # from Generators.Generators2 import *
 # from Generators.Generators import *
 
@@ -132,7 +132,6 @@ from Testing.WritingUnitTests import *
 # from PythonBasics2.Enumerate import *
 # from PythonBasics2.Range import *
 # from PythonBasics2.TrickyCounterExercise import *
-
 
 #-------Day 5--------
 # from PythonBasics2.Iterables import *
