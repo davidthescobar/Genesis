@@ -1,14 +1,19 @@
 from flask import Flask, render_template
 app = Flask(__name__)
+print(__name__)
 
-@app.route("/<username>/<int:post_id>")
-def hello_world(username, post_id):
-    return render_template('index.html', name=username, num=post_id)
+@app.route("/")
+def my_home():
+    return render_template('index.html')
 
-@app.route("/about")
+@app.route("/works.html")
+def work():
+    return render_template('works.html')
+
+@app.route("/about.html")
 def about():
     return render_template('about.html')
 
-@app.route("/blog")
-def blog():
-    return "<p>Thoughts about blogs!</p>"
+@app.route("/contact.html")
+def contact():
+    return render_template('contact.html')
