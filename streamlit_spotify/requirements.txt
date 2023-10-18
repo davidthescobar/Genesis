@@ -1,0 +1,4 @@
+streamlit~=1.27.2
+requests~=2.31.0
+configargparse >= 1.2.3
+selenium >= 3.141.0
